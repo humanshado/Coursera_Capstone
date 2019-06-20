@@ -5,3 +5,8 @@
 *.jpg
 *.json
 *.pdf
+.ipynb_checkpoints/Comparing Classifiers-checkpoint.ipynb
+.ipynb_checkpoints/Exploring Toronto Neighborhoods-checkpoint.ipynb
+.ipynb_checkpoints/Loan-checkpoint.ipynb
+.ipynb_checkpoints/ML0101EN-Proj-Loan-answer-py-v1-checkpoint.ipynb
+NY.ipynb
